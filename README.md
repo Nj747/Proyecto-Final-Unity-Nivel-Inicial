@@ -1,7 +1,9 @@
 # Proyecto Integrador Unity Nivel Inicial
 Este repositorio contiene los scripts del proyecto integrador presentado para la aprobación del curso **_Unity Nivel Inicial_** impartido por la Universidad Tecnológica Nacional (**UTN - FRBA**).
 
-Para el desarrollo se utilizó **_Unity 2018.2.18f1 standalone 64 bit_**
+Para ver el certificado de aprobación entrar a https://www.linkedin.com/in/nahuel-armando-7a6b9411a/
+
+Para el desarrollo se utilizó **_Unity 2018.2.18f1 standalone 64 bit_**.
 
 Para descargar el juego completo, entrar al siguiente link: *https://drive.google.com/open?id=1aWRWxjXVNQvUUVH3eWWpGPNooOPdb6qb*
 
