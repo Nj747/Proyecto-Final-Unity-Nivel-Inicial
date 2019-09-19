@@ -17,8 +17,6 @@ Para descargar el juego completo, entrar al siguiente link: *https://drive.googl
 * Managers
 
 ## Imágenes del juego
-Menú principal seguido por el canvas del tutorial
-![Alt Text](https://github.com/Nj747/Proyecto-Final-Unity-Nivel-Inicial/blob/master/Menu%20y%20tutorial.png)
 
-Nivel 1
+![Alt Text](https://github.com/Nj747/Proyecto-Final-Unity-Nivel-Inicial/blob/master/Menu%20y%20tutorial.png)
 ![Alt Text](https://github.com/Nj747/Proyecto-Final-Unity-Nivel-Inicial/blob/master/Nivel1.png)
