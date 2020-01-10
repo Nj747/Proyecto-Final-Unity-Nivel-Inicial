@@ -5,7 +5,7 @@ Para el desarrollo se utilizó **_Unity 2018.2.18f1 standalone 64 bit_**.
 
 Para descargar el juego completo, entrar al siguiente link: *https://drive.google.com/open?id=1aWRWxjXVNQvUUVH3eWWpGPNooOPdb6qb*
 
-[Link para jugarlo online](https://itch.io/embed/547749?border_width=5&bg_color=dadada&fg_color=000000&link_color=1f590a&border_color=000000)
+*[Link para jugarlo online](https://nj747.itch.io/battleships)*
 
 ## Contenido
 * 4 niveles jugables.
