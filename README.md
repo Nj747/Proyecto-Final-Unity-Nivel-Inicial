@@ -5,9 +5,9 @@ Para el desarrollo se utilizó **_Unity 2018.2.18f1 standalone 64 bit_**.
 
 Para descargar el juego completo, entrar al siguiente link: *https://drive.google.com/open?id=1aWRWxjXVNQvUUVH3eWWpGPNooOPdb6qb*
 
-<iframe frameborder="0" src="https://itch.io/embed/547749?border_width=5&amp;bg_color=dadada&amp;fg_color=000000&amp;link_color=1f590a&amp;border_color=000000" width="560" height="175"><a href="https://nj747.itch.io/battleships">Battleships by Nahuel J. Armando</a></iframe>
+[Link para jugarlo online](https://itch.io/embed/547749?border_width=5&bg_color=dadada&fg_color=000000&link_color=1f590a&border_color=000000)
 
-## Implementación
+## Contenido
 * 4 niveles jugables.
 * GUI: menú principal, canvas, fuente Jupiter creada por **Isurus Labs**, instrucciones de juego, vida del jugador y puntaje.  
 * Enemigos con distintos patrones de movimiento (x nivel).
