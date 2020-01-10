@@ -3,9 +3,9 @@ Este repositorio contiene los scripts del proyecto integrador presentado para la
 
 Para el desarrollo se utilizó **_Unity 2018.2.18f1 standalone 64 bit_**.
 
-Para descargar el juego completo, entrar al siguiente link: *https://drive.google.com/open?id=1aWRWxjXVNQvUUVH3eWWpGPNooOPdb6qb*
+> Para descargar el juego completo, entrar al siguiente *[link](https://drive.google.com/open?id=1aWRWxjXVNQvUUVH3eWWpGPNooOPdb6qb)*
 
-*[Link para jugarlo online](https://nj747.itch.io/battleships)*
+> *[Link para jugarlo online](https://nj747.itch.io/battleships)*
 
 ## Contenido
 * 4 niveles jugables.
