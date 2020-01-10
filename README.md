@@ -6,7 +6,7 @@ Para el desarrollo se utilizó **_Unity 2018.2.18f1 standalone 64 bit_**.
 Para descargar el juego completo, entrar al siguiente link: *https://drive.google.com/open?id=1aWRWxjXVNQvUUVH3eWWpGPNooOPdb6qb*
 
 ## Implementación
-* 5 niveles jugables.
+* 4 niveles jugables.
 * GUI: menú principal, canvas, fuente Jupiter creada por *Isurus Labs*, instrucciones de juego, vida del jugador y puntaje.  
 * Enemigos con distintos patrones de movimiento (x nivel).
 * Power ups.
